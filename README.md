@@ -2,7 +2,7 @@
 
 Project Name - Madhav E-Commerce Sales Dashboard.
 
-Objective - Owner of Madhav Store wants us to help them create a dashboard to track and analyze their online sales across India.
+Objective - Owner of Madhav Store wants us to help them create an interactive dashboard to track and analyze their online sales across India.
 
 Project key points - Data Collection
                    - Data Cleaning & Wrangling
