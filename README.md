@@ -9,7 +9,7 @@ Project key points - Data Collection
                    - Data Modeling 
                    - Data Visualization
                    - Dashboard Design
-                   - Sharing Insights
+                   - Sharing Insights.
            
 Description -
 In the given project, used different types of customized visualization such as 
